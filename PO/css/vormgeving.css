@@ -1,17 +1,240 @@
-html, body {
-    padding: 0;
-    margin: 0;
-}
+
+
+
+
 
 body {
-    background: #5d524c;
-    color: #c8c3bf;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-    padding-left: 10%;
+	background-color:rgb(0, 0, 0);
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
+
+  
+
+p {
+color: #ffffff;
+font-family:'Ubuntu', sans-serif;
+
 }
+#menu {
+	background: #000000;
+	color: #FFF;
+	height: 49px;
+	padding-left:60px;
+	border-radius: 0px;
+    margin-left: 35%;
+	
+ }
+#menu ul, #menu li {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none
+}
+#menu ul {
+	width: 100%;
+}
+#menu li {
+	float: left;
+	display: inline;
+	position: relative;
+}
+#menu a {
+	display: block;
+	line-height: 49px;
+	padding: 0 14px;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 23px;
+	text-transform: capitalize;
+   font-family:'Ubuntu', sans-serif;
+}
+#menu li a:hover {
+	color: #0099CC;
+	background: #F2F2F2;
+	
+}
+#menu input {
+	display: none;
+	margin: 0;
+	padding: 0;
+	height: 49px;
+	width: 100%;
+	opacity: 0;
+	cursor: pointer
+}
+
+
+
+img {
+    margin: auto;
+    display: block;
+}
+
+
+
+#menubackground {
+    background-color: #000000;
+}
+
+.kwoot{
+	font-size: 60px;
+	text-align: center;
+	
+}
+.kwooot{
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 200px;
+	
+}
+
+#kaart{
+	
+	width: 1895px;
+	height: auto;
+}
+
+
+
+.contact1{
+	height: 100px;
+	width: 600px;
+	margin-top: 50px;
+	font-size: 50px;
+	text-align: center;
+	border: 8px solid rgb(255, 255, 255);
+	border-radius: 25px;
+	padding-bottom: 50px;
+	margin-left: 300px;
+	float: left;
+	background: rgb(41, 41, 41);
+	}
+
+#veldje {
+	height: 436px;
+	width: auto;
+}
+
+	.contact2{
+		height: 100px;
+		width: 600px;
+		margin-top: 50px;
+		font-size: 50px;
+		text-align: center;
+		border: 8px solid rgb(255, 255, 255);
+		border-radius: 25px;
+		padding-bottom: 50px;
+		margin-right: 300px;
+		margin-left: 20px;
+		float: right;
+		background: rgb(41, 41, 41);
+		}
+
+		#lol {
+			font-size: 27px;
+			text-align: center;
+			margin-top: 250px;
+			margin-left: 250px;
+			margin-right: 250px;
+		}
+		.contact3{
+			height: 100px;
+			width: 1600px;
+			margin-top: 50px;
+			font-size: 50px;
+			text-align: center;
+			border: 8px solid rgb(255, 255, 255);
+			border-radius: 25px;
+			padding-bottom: 50px;
+			margin-left: 150px;
+			margin-bottom: 200px;
+			background: rgb(41, 41, 41);
+			}
+
+			
+			#basketbal {
+				border-radius: 60px;
+				margin-top: 50px;
+				float: right;
+				margin-right: 100px;
+				width: 400px;
+				height: auto;
+			}
+
+			#basketbal2 {
+				border-radius: 60px;
+				float: left;
+				margin-left: 100px;
+				margin-top: 50px;
+				width: 400px;
+				height: auto;	
+				
+
+			}
+			#ikbenmoe {
+				text-align: center;
+			margin-top: 20px;
+			font-size: 20px;
+			margin-left: 600px;
+			margin-right: 600px;
+			
+			}
+
+			#h1 {
+				text-align: center;
+				color: #ffffff;
+font-family:'Ubuntu', sans-serif;
+				margin-top: 150px;
+				font-size: 60px;
+				
+				
+			}
+
+			#sterrenstof {
+				margin-bottom: 300px;
+				width: 500px;
+				height: auto;
+			}
+
+			.voetbal {
+				margin-top: 50px;
+				float: left;
+				margin-left: 300px;
+				border: 11px solid rgb(87, 85, 85);
+				
+				
+			}
+			.voetbaltekst {
+				margin-top: 50px;
+				margin-left: 500px;
+				margin-right: 300px;
+				font-size: 27px;
+				height: 289px;
+				background: rgb(110, 109, 109);
+				padding-top: 20px;
+				padding-left: 200px;
+				border-top-right-radius: 25px;
+				border-bottom-right-radius: 25px;
+				
+			}
+			
+			#voetbaltekst2 {
+				font-size: 18px;
+				margin-right: 200px;
+			}
+			
+			#prijs {
+				float: right;
+				margin-right: 60px;
+				font-size: 50px;
+				color: rgb(255, 255, 255);
+			}
+
+			#sportballen {
+				width: 1475px;
+				height: 750px;
+			}
+
+			#sterplaatje {
+				width: 700px;
+				height: auto;
+			}
